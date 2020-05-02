@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CoolPlay\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CoolPlay\\.nuget\\packages"
+    ]
+  }
+}

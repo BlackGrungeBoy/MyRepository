@@ -1,0 +1,26 @@
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\felix\OneDrive\Робочий стіл\LABS_NOT_MINE\Kolya\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\CoolPlay\Desktop\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache
